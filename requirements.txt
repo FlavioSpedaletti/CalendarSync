@@ -1,0 +1,6 @@
+azure-functions
+icalendar
+google-api-python-client
+google-auth
+azure-storage-blob
+requests

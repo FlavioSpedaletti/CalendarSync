@@ -1,0 +1,11 @@
+.git*
+.vscode
+__azurite_db*__.json
+.python_packages
+local.settings.json
+test
+.env
+*.pyc
+__pycache__
+
+.venv

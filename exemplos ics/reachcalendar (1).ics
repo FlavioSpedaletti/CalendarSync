@@ -1,0 +1,1477 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+X-WR-CALNAME:Calendar
+BEGIN:VTIMEZONE
+TZID:E. South America Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nMicrosoft Teams Precisa de ajuda?<https://nam10.safel
+ inks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3
+ Fomkt%3Dpt-BR&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C4e423dffd26
+ 849c6627608de41569e8c%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C6390200
+ 37458790772%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMD
+ AwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=
+ OOlKFIqQkgMoV0jEJh9GDAVHFfJRqsVjHHZakJTA9Zs%3D&reserved=0>\nEntrar na reun
+ ião agora<https://nam10.safelinks.protection.outlook.com/ap/t-59584e83/?u
+ rl=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_Yz
+ c2MDA1NjAtNjJkZi00NzNiLThjZDMtYjc2NWIyNDE3YTE1%2540thread.v2%2F0%3Fcontext
+ %3D%257b%2522Tid%2522%253a%2522e942b696-35aa-42db-aff5-158d31fcc434%2522%2
+ 52c%2522Oid%2522%253a%2522c548558d-f17a-4a62-bf85-95a401040ab7%2522%257d&d
+ ata=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C4e423dffd26849c6627608de41
+ 569e8c%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639020037458815012%7CU
+ nknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXa
+ W4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1x8mECfI3ly%2Bd
+ ME5RlB%2B4xBS3E2598%2B%2F87bOhRryHmM%3D&reserved=0>\nID da Reunião: 217 7
+ 57 180 577 9\nSenha: Fy2bm3wi\n________________________________\nParticipa
+ r por telefone\n+55 11 3181-5371\,\,994856687#<tel:+551131815371\,\,994856
+ 687#> Brasil\, São Paulo\nLocalizar um número local<https://nam10.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2
+ Fe0192a2f-9d90-439f-8192-bbb1b56d17c9%3Fid%3D994856687&data=05%7C02%7Cflav
+ io.spedaletti%40adiq.com.br%7C4e423dffd26849c6627608de41569e8c%7Ce942b6963
+ 5aa42dbaff5158d31fcc434%7C0%7C0%7C639020037458838444%7CUnknown%7CTWFpbGZsb
+ 3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWF
+ pbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=WCCUlKs6DoM6tamAVc%2BfyWhPpJVI5hE
+ ER%2Bmq2zi%2F2T4%3D&reserved=0>\nID de conferência do Telefone: 994 856 6
+ 87#\nIngressar em um dispositivo de videoconferência\nChave do locatário
+ : teams@bs2.onpexip.com\nID do Video: 115 793 681 9\nMais informações<ht
+ tps://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpexip.me%2
+ Fteams%2Fbs2.onpexip.com%2F1157936819&data=05%7C02%7Cflavio.spedaletti%40a
+ diq.com.br%7C4e423dffd26849c6627608de41569e8c%7Ce942b69635aa42dbaff5158d31
+ fcc434%7C0%7C0%7C639020037458863417%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcG
+ kiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3
+ D%3D%7C0%7C%7C%7C&sdata=YpkHPgt%2FUnR%2F0%2BwLtOZt9UUzoSIIeC1nZcQRvksGaD0%
+ 3D&reserved=0>\nPara organizadores: Opções de reunião<https://nam10.saf
+ elinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fmee
+ tingOptions%2F%3ForganizerId%3Dc548558d-f17a-4a62-bf85-95a401040ab7%26tena
+ ntId%3De942b696-35aa-42db-aff5-158d31fcc434%26threadId%3D19_meeting_Yzc2MD
+ A1NjAtNjJkZi00NzNiLThjZDMtYjc2NWIyNDE3YTE1%40thread.v2%26messageId%3D0%26l
+ anguage%3Dpt-BR&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C4e423dffd
+ 26849c6627608de41569e8c%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C63902
+ 0037458894690%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAu
+ MDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdat
+ a=BAbHyE0Hyvwd3ukuUiaUo%2Bw3KaerPBJt1bJoPmdPj%2FE%3D&reserved=0> | Redefin
+ ir o PIN de discagem<https://nam10.safelinks.protection.outlook.com/?url=h
+ ttps%3A%2F%2Fdialin.teams.microsoft.com%2Fusp%2Fpstnconferencing&data=05%7
+ C02%7Cflavio.spedaletti%40adiq.com.br%7C4e423dffd26849c6627608de41569e8c%7
+ Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639020037458918408%7CUnknown%7
+ CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsI
+ kFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=sXNb25LLPU%2FCgASmVPono
+ 3DlaKXdQz%2FeyTMsInzbRPk%3D&reserved=0>\n_________________________________
+ _______________________________________________\n\n\nEsta mensagem e seus 
+ anexos estão dirigidos exclusivamente aos destinatários especificados. A
+  informação neles contida pode ser confidencial\, não estando autorizad
+ a sua divulgação ou cópia. Se você recebeu por engano\, pedimos gentil
+ mente que comunique ao remetente e elimine seu conteúdo. Apesar de se tra
+ tar de e-mail corporativo\, o seu conteúdo não necessariamente é seguro
+  e/ou reflete a opinião do BS2\, que não tem qualquer responsabilidade p
+ or eventuais perdas e danos causados por este.\n\n\n\nO Banco BS2 não ped
+ e atualização de dados - muito menos informações sensíveis\, como sen
+ has e tokens - por e-mail\, chamada telefônica ou SMS\, mensagens de What
+ sApp e outros aplicativos de conversa.\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20260918T123000Z;INTERVAL=1;BYDAY=MO,TU,WE,TH,FR;WK
+ ST=SU
+UID:040000008200E00074C5B7101A82E00800000000E2EF5D5F0228DC01000000000000000
+ 0100000000F3425C66E57124396EAEF94F9C6690F
+SUMMARY:[Daily] E- Commerce
+DTSTART;TZID=E. South America Standard Time:20260218T093000
+DTEND;TZID=E. South America Standard Time:20260218T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:7
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:7
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000005C631CA6EFA0DC01000000000000000
+ 0100000000D3713D326EBEE47B1E70A5DB25886EB
+SUMMARY:hj tem GMUD
+DTSTART;TZID=E. South America Standard Time:20260219T092000
+DTEND;TZID=E. South America Standard Time:20260219T095000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000086BC6ED2E2A1DC01000000000000000
+ 0100000002A090DDE0046CB41A27DC8A6DAEF9468
+SUMMARY:pdi deo
+DTSTART;TZID=E. South America Standard Time:20260220T093000
+DTEND;TZID=E. South America Standard Time:20260220T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nMicrosoft Teams Need help?<https://nam10.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3
+ Den-US&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Cefa7cb847b164f041d
+ b008ddf9e036f5%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C63894146358131
+ 8594%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsI
+ lAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=2xtfbJf
+ AWxODQPEDwhmDISA8H%2BvEafRPmsaE2el82FA%3D&reserved=0>\nJoin the meeting no
+ w<https://nam10.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%
+ 3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_OGZlYzJmNDg
+ tMmVhZi00MDU2LWE1ZTMtNmE3NWFhYTJhNjhh%2540thread.v2%2F0%3Fcontext%3D%257b%
+ 2522Tid%2522%253a%2522e942b696-35aa-42db-aff5-158d31fcc434%2522%252c%2522O
+ id%2522%253a%2522c38987e6-711d-4e7d-8f9b-9c9528416c44%2522%257d&data=05%7C
+ 02%7Cflavio.spedaletti%40adiq.com.br%7Cefa7cb847b164f041db008ddf9e036f5%7C
+ e942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C638941463581367052%7CUnknown%7C
+ TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIk
+ FOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Gwp6Ot1GmJHpD7yXg5ShHKC5
+ Es7nRJyNH7ko4vCE6wk%3D&reserved=0>\nMeeting ID: 293 868 246 854\nPasscode:
+  Hh7Ad2MS\n________________________________\nJoin on a video conferencing 
+ device\nTenant key: teams@bs2.onpexip.com\nVideo ID: 115 993 809 1\nMore i
+ nfo<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpexi
+ p.me%2Fteams%2Fbs2.onpexip.com%2F1159938091&data=05%7C02%7Cflavio.spedalet
+ ti%40adiq.com.br%7Cefa7cb847b164f041db008ddf9e036f5%7Ce942b69635aa42dbaff5
+ 158d31fcc434%7C0%7C0%7C638941463581404829%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0
+ eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIj
+ oyfQ%3D%3D%7C0%7C%7C%7C&sdata=9ReGro5Ijdz0CoiodP3fwmOLDFbkEIt61m736m%2FiR1
+ o%3D&reserved=0>\nFor organizers: Meeting options<https://nam10.safelinks.
+ protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOpt
+ ions%2F%3ForganizerId%3Dc38987e6-711d-4e7d-8f9b-9c9528416c44%26tenantId%3D
+ e942b696-35aa-42db-aff5-158d31fcc434%26threadId%3D19_meeting_OGZlYzJmNDgtM
+ mVhZi00MDU2LWE1ZTMtNmE3NWFhYTJhNjhh%40thread.v2%26messageId%3D0%26language
+ %3Den-US&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Cefa7cb847b164f04
+ 1db008ddf9e036f5%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C638941463581
+ 438721%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCI
+ sIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=o5xwB
+ cOTYrDvV7bl2c6swkfbBXhF7w6xA8QtWDMQ2ok%3D&reserved=0>\n___________________
+ _____________________________________________________________\n\n\nEsta me
+ nsagem e seus anexos estão dirigidos exclusivamente aos destinatários es
+ pecificados. A informação neles contida pode ser confidencial\, não est
+ ando autorizada sua divulgação ou cópia. Se você recebeu por engano\, 
+ pedimos gentilmente que comunique ao remetente e elimine seu conteúdo. Ap
+ esar de se tratar de e-mail corporativo\, o seu conteúdo não necessariam
+ ente é seguro e/ou reflete a opinião do BS2\, que não tem qualquer resp
+ onsabilidade por eventuais perdas e danos causados por este.\n\n\n\nO Banc
+ o BS2 não pede atualização de dados - muito menos informações sensív
+ eis\, como senhas e tokens - por e-mail\, chamada telefônica ou SMS\, men
+ sagens de WhatsApp e outros aplicativos de conversa.\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20260724T133000Z;INTERVAL=2;BYDAY=FR;WKST=SU
+UID:040000008200E00074C5B7101A82E00800000000CC30CFD3F3E4DB01000000000000000
+ 0100000000C583DDD5CBBB04DB145DB3A0AAE9254
+SUMMARY:Review_Planning - E-Commerce
+DTSTART;TZID=E. South America Standard Time:20260220T103000
+DTEND;TZID=E. South America Standard Time:20260220T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:7
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:7
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________\nDe: Comunicação Corporati
+ va BS2 <comunicacaocorporativa@bs2.com>\nEnviado: quinta-feira\, 19 de fev
+ ereiro de 2026 09:04:26 (UTC-03:00) Brasilia\nPara: Comunicação Corporat
+ iva BS2 <comunicacaocorporativa@bs2.com>\; Grupo distribuicao terceiros BS
+ 2 <GDTerceirosBs2@bancobs2.com.br>\; Grupo distribuicao funcionarios BS2 <
+ GDFuncionariosBs2@bancobs2.com.br>\; ADIQ Global <ADIQ_GLOBAL@adiq.com.br>
+ \; ADIQ Terceiros <adiqtiterceiros@bancobonsucesso.onmicrosoft.com>\nAssun
+ to: Café com Estratégia | Edição 28\nQuando: segunda-feira\, 23 de fev
+ ereiro de 2026 09:00-10:00.\nOnde: https://teams.microsoft.com/meet/224048
+ 72984717?p=7LexNya2V3Fq3kdkoD\n\n\n\n[https://email-editor-production.s3.a
+ mazonaws.com/images/416090/BS2_CAFE_Cabecalho_1.png]\nOlá\, besser!\n\nA 
+ primeira edição do ano do Café com Estratégia já tem data: segunda\, 
+ 23 de fevereiro\, das 9h às 10h. Com nosso time em campo\, é hora de ali
+ nharmos o fechamento das metas corporativas de 2025 e as diretrizes estrat
+ égicas de 2026.\n\nSua presença é importante! Esperamos você\, no Team
+ s.\n\n\n23 de fevereiro\, segunda-feira\n\n9h às 10h\n\n[acesse aqui]<htt
+ ps://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft.rdsv2.net
+ %2Fls%2Fclick%3Fupn%3Du001.rVi0pP8GrPRnS7Va5vMnOJ1Zqkz1mcQsb9Tn8-2Bw4nq4GE
+ IkdPRunKARK1PwgvvzcSq-2BRMB6206f-2BQriTOcXWiAhNLK4G-2FAnpkRNYbYuvXqizxREic
+ wPRG-2BYgo5jn-2F9vg3CV-2F37tZ7WDMd0Qky4SSUT1ob9PzTmkaPaJyyXgXztqbmdZBGKTTo
+ meqqkSyOjPnoPc3Ic0CJnyQ6PjTP2SXZjo16Pgv3YJj6nPnKgFKVIo-3D2WBg_blWv2UVG9D68
+ 4GWAEdTZnSwbsCk9Pu8oLI1ctNpC3iRVUiJ3eix10VNJyYKChqXqqAK4SH-2FNqyBJBvmspppw
+ n1-2FkTSC7QcqNvw6pBwUwk-2F9I5l0PRY9PNJfadQUEMuYfS8hywbdAdRt6uqUuCndZXks-2B
+ ddbNxBsrFZhamuujfReb8X3kGgYAxjwCXx98Oe7qwHL7E-2BYlZn05BbKAVMS28t-2BpT-2Ftp
+ KDqT1iEr-2FP1qTJOW1D1jgm5YWOYUP4Iw8bHmbbxgegGKxQZ-2BEWxF6SxtR-2BhagH8cPDkZ
+ Sm4AYtG4xw8UTAgjI95i0Z-2FriqPefzmw&data=05%7C02%7Cflavio.spedaletti%40adiq
+ .com.br%7Ccb3dab3769f1436bb6d508de72d57964%7Ce942b69635aa42dbaff5158d31fcc
+ 434%7C0%7C0%7C639074458398337554%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiO
+ nRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3
+ D%7C0%7C%7C%7C&sdata=FWrg0OLkRtcYBk2hV4mwV66zyPnwRBfIm6Dss7hQHNY%3D&reserv
+ ed=0>\n\nAté lá!\n[https://email-editor-production.s3.amazonaws.com/imag
+ es/416090/BS2_CAFE_RODAP%C3%89_EMAIL%202.png]\n\n\n\nEsta mensagem e seus 
+ anexos estão dirigidos exclusivamente aos destinatários especificados. A
+  informação neles contida pode ser confidencial\, não estando autorizad
+ a sua divulgação ou cópia. Se você recebeu por engano\, pedimos gentil
+ mente que comunique ao remetente e elimine seu conteúdo. Apesar de se tra
+ tar de e-mail corporativo\, o seu conteúdo não necessariamente é seguro
+  e/ou reflete a opinião do BS2\, que não tem qualquer responsabilidade p
+ or eventuais perdas e danos causados por este.\n\n\n\nO Banco BS2 não ped
+ e atualização de dados - muito menos informações sensíveis\, como sen
+ has e tokens - por e-mail\, chamada telefônica ou SMS\, mensagens de What
+ sApp e outros aplicativos de conversa.\n\n
+UID:040000008200E00074C5B7101A82E00800000000D02356EA7DA1DC01000000000000000
+ 010000000E5A22FC621B59244A241F98D4E67D8DE
+SUMMARY:Café com Estratégia | Edição 28
+DTSTART;TZID=E. South America Standard Time:20260223T090000
+DTEND;TZID=E. South America Standard Time:20260223T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:https://teams.microsoft.com/meet/22404872984717?p=7LexNya2V3Fq3kdk
+ oD
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000058F28801A6A2DC01000000000000000
+ 010000000DA80E392D881D4449C38AA6EC05F2C94
+SUMMARY:adicionar url da pipeline no excel da CRQ do checkout.web
+DTSTART;TZID=E. South America Standard Time:20260223T163000
+DTEND;TZID=E. South America Standard Time:20260223T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n-----Compromisso original-----\nDe: Ana Paula Honorato Berg
+ amin <ana.bergamin@adiq.com.br>\nEnviada em: segunda-feira\, 11 de agosto 
+ de 2025 17:07\nPara: Ana Paula Honorato Bergamin\; Rafael Steves De Faria 
+ Freitas\; Milton Luiz De Oliveira Souza\; Isabela Bertallo Valli Lauria\; 
+ Fabio Dias Stroppa\nAssunto: Reunião time Stroppa\nQuando: Ocorre a cada 
+ 2 semana(s) no(a) segunda-feira em vigor a partir de 11/08/2025 de 17:00 
+ às 18:00 (UTC-03:00) Brasília.\nOnde: Reunião do Microsoft Teams\n\n\n_
+ __________________________________________________________________________
+ _____\nMicrosoft Teams Precisa de ajuda?<https://nam10.safelinks.protectio
+ n.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dpt-BR&
+ data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C53f209313a1b4879756a08dde
+ f1406f8%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C638929591513657700%7C
+ Unknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJX
+ aW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hy3j53dgdb4bhR
+ eph59jyqsc7A9S%2BDzm132mIsBrnmM%3D&reserved=0>\nIngressar na reunião agor
+ a<https://nam10.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%
+ 3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_YzBlMDZmMGM
+ tNDA1MC00MWVjLWI5MWItYTQyOWRiODhlZmE2%2540thread.v2%2F0%3Fcontext%3D%257b%
+ 2522Tid%2522%253a%2522e942b696-35aa-42db-aff5-158d31fcc434%2522%252c%2522O
+ id%2522%253a%2522508ebd0c-0e6d-4ae3-9f21-a01181702cd2%2522%257d&data=05%7C
+ 02%7Cflavio.spedaletti%40adiq.com.br%7C53f209313a1b4879756a08ddef1406f8%7C
+ e942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C638929591513714122%7CUnknown%7C
+ TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIk
+ FOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=s0SjNDtI1YNZB%2FffdaIzYA
+ b%2BlrqUJd9W1k5FNFNXbNE%3D&reserved=0>\nID da Reunião: 294 994 162 391 6\
+ nSenha: VR2nD9ZB\n________________________________\nParticipar por telefon
+ e\n+55 11 3181-5371\,\,426794014#<tel:+551131815371\,\,426794014> Brasil\,
+  São Paulo\nLocalizar um número local<https://nam10.safelinks.protection
+ .outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fe0192a2f-9d90
+ -439f-8192-bbb1b56d17c9%3Fid%3D426794014&data=05%7C02%7Cflavio.spedaletti%
+ 40adiq.com.br%7C53f209313a1b4879756a08ddef1406f8%7Ce942b69635aa42dbaff5158
+ d31fcc434%7C0%7C0%7C638929591513751378%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1
+ hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyf
+ Q%3D%3D%7C0%7C%7C%7C&sdata=UsJZFd7yZJ6wm0KmXgxRxm4bJ%2Bn4C%2F7MkVp7RKA4eac
+ %3D&reserved=0>\nID de conferência do Telefone: 426 794 014#\nIngressar e
+ m um dispositivo de videoconferência\nChave do locatário: teams@bs2.onpe
+ xip.com<mailto:teams@bs2.onpexip.com>\nID do Video: 112 851 760 8\nMais in
+ formações<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fpexip.me%2Fteams%2Fbs2.onpexip.com%2F1128517608&data=05%7C02%7Cflavio.
+ spedaletti%40adiq.com.br%7C53f209313a1b4879756a08ddef1406f8%7Ce942b69635aa
+ 42dbaff5158d31fcc434%7C0%7C0%7C638929591513781058%7CUnknown%7CTWFpbGZsb3d8
+ eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbC
+ IsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1LEO6Q7%2Bl8AynC4uBAh5YctNzIYymaItdM
+ WnlW4vXhA%3D&reserved=0>\nPara organizadores: Opções de reunião<https:/
+ /nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft
+ .com%2FmeetingOptions%2F%3ForganizerId%3D508ebd0c-0e6d-4ae3-9f21-a01181702
+ cd2%26tenantId%3De942b696-35aa-42db-aff5-158d31fcc434%26threadId%3D19_meet
+ ing_YzBlMDZmMGMtNDA1MC00MWVjLWI5MWItYTQyOWRiODhlZmE2%40thread.v2%26message
+ Id%3D0%26language%3Dpt-BR&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7
+ C53f209313a1b4879756a08ddef1406f8%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7
+ C0%7C638929591513805295%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIl
+ YiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%
+ 7C%7C&sdata=ttHZJWxVRD4kZgE6t2JJIi9LOPlosxv16irIjn0CShA%3D&reserved=0> | R
+ edefinir o PIN de discagem<https://nam10.safelinks.protection.outlook.com/
+ ?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fusp%2Fpstnconferencing&dat
+ a=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C53f209313a1b4879756a08ddef14
+ 06f8%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C638929591513835214%7CUnk
+ nown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4
+ zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=F6GOrV5lMHPwLplzO
+ 7VqQ2VgOh1mtY7tjIn8TqmiH98%3D&reserved=0>\n_______________________________
+ _________________________________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20260907T200000Z;INTERVAL=2;BYDAY=MO;WKST=SU
+UID:040000008200E00074C5B7101A82E00800000000A02A7CD09EFDDB01000000000000000
+ 01000000079BA8B3116C6B9499C3ABE4F3FBE5F91
+SUMMARY:Reunião time Stroppa
+DTSTART;TZID=E. South America Standard Time:20260223T170000
+DTEND;TZID=E. South America Standard Time:20260223T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:Reunião do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+RRULE:FREQ=MONTHLY;UNTIL=20260825T120000Z;INTERVAL=1;BYMONTHDAY=25
+UID:040000008200E00074C5B7101A82E00800000000C084539E42B6D801000000000000000
+ 01000000078D9782CFB175D4B9DED241C0E387114
+SUMMARY:enviar folha de ponto objective\, se necessário
+DTSTART;TZID=E. South America Standard Time:20260225T090000
+DTEND;TZID=E. South America Standard Time:20260225T093000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[cid:image001.png@01DCA1C8.CB4944E0]\n_________________________
+ _______________________________________________________\nMicrosoft Teams P
+ recisa de ajuda?<https://nam10.safelinks.protection.outlook.com/?url=https
+ %3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dpt-BR&data=05%7C02%7Cflavio.sp
+ edaletti%40adiq.com.br%7Ce4929b88f9c74c774ec208de6ff916a2%7Ce942b69635aa42
+ dbaff5158d31fcc434%7C0%7C0%7C639071312967959282%7CUnknown%7CTWFpbGZsb3d8ey
+ JFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIs
+ IldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=e5G84akjdm4hmlZiZYxi3v9QntZoDCSpsG98sL
+ rOSAs%3D&reserved=0>\nIngressar na reunião agora<https://nam10.safelinks.
+ protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.co
+ m%2Fl%2Fmeetup-join%2F19%253ameeting_MzFjZThlMjQtY2M1NS00OTgxLWEyYzQtODEwY
+ jczZDAyZTIy%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522e942
+ b696-35aa-42db-aff5-158d31fcc434%2522%252c%2522Oid%2522%253a%252261f6bb09-
+ 57f7-483f-973a-c5bd5ede2c9f%2522%257d&data=05%7C02%7Cflavio.spedaletti%40a
+ diq.com.br%7Ce4929b88f9c74c774ec208de6ff916a2%7Ce942b69635aa42dbaff5158d31
+ fcc434%7C0%7C0%7C639071312968603667%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcG
+ kiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3
+ D%3D%7C0%7C%7C%7C&sdata=42lq8imcstL8AkCosZdOrs7gwJns6ogopvwf66s535w%3D&res
+ erved=0>\nID da Reunião: 212 579 108 667 58\nSenha: y2cV2VN3\n___________
+ _____________________\nParticipar por telefone\n+55 11 3181-5371\,\,845427
+ 116#<tel:+551131815371\,\,845427116> Brasil\, São Paulo\nLocalizar um nú
+ mero local<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F
+ %2Fdialin.teams.microsoft.com%2Fe0192a2f-9d90-439f-8192-bbb1b56d17c9%3Fid%
+ 3D845427116&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Ce4929b88f9c74
+ c774ec208de6ff916a2%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639071312
+ 968655180%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAw
+ MCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=eR
+ gqxXtBgPD75iNi4cOEMoVAJIJ7xfrF74e2dm3U9zs%3D&reserved=0>\nID de conferênc
+ ia do Telefone: 845 427 116#\nIngressar em um dispositivo de videoconferê
+ ncia\nChave do locatário: teams@bs2.onpexip.com<mailto:teams@bs2.onpexip.
+ com>\nID do Video: 114 874 673 7\nMais informações<https://nam10.safelin
+ ks.protection.outlook.com/?url=https%3A%2F%2Fpexip.me%2Fteams%2Fbs2.onpexi
+ p.com%2F1148746737&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Ce4929b
+ 88f9c74c774ec208de6ff916a2%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C63
+ 9071312968701415%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwL
+ jAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&s
+ data=UOdS%2FjpfzGTTzG4tLsSbcnN0H9RK6i2nQo2z5kh%2FJuA%3D&reserved=0>\nPara 
+ organizadores: Opções de reunião<https://nam10.safelinks.protection.out
+ look.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3Forga
+ nizerId%3D61f6bb09-57f7-483f-973a-c5bd5ede2c9f%26tenantId%3De942b696-35aa-
+ 42db-aff5-158d31fcc434%26threadId%3D19_meeting_MzFjZThlMjQtY2M1NS00OTgxLWE
+ yYzQtODEwYjczZDAyZTIy%40thread.v2%26messageId%3D0%26language%3Dpt-BR&data=
+ 05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Ce4929b88f9c74c774ec208de6ff916
+ a2%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639071312968740456%7CUnkno
+ wn%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zM
+ iIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=uygvxHlw%2BreVIsamG
+ q3luUOpjYNY14gRW3yEWb6pV3A%3D&reserved=0> | Redefinir o PIN de discagem<ht
+ tps://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.tea
+ ms.microsoft.com%2Fusp%2Fpstnconferencing&data=05%7C02%7Cflavio.spedaletti
+ %40adiq.com.br%7Ce4929b88f9c74c774ec208de6ff916a2%7Ce942b69635aa42dbaff515
+ 8d31fcc434%7C0%7C0%7C639071312968769947%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU
+ 1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoy
+ fQ%3D%3D%7C0%7C%7C%7C&sdata=XJQlCcOwiiwynNyJwXFy1MON%2FSZpobT1aECW%2Bzlp83
+ E%3D&reserved=0>\n________________________________________________________
+ ________________________\n\n\n\nEsta mensagem e seus anexos estão dirigid
+ os exclusivamente aos destinatários especificados. A informação neles c
+ ontida pode ser confidencial\, não estando autorizada sua divulgação ou
+  cópia. Se você recebeu por engano\, pedimos gentilmente que comunique a
+ o remetente e elimine seu conteúdo. Apesar de se tratar de e-mail corpora
+ tivo\, o seu conteúdo não necessariamente é seguro e/ou reflete a opini
+ ão do BS2\, que não tem qualquer responsabilidade por eventuais perdas e
+  danos causados por este.\n\n\n\nO Banco BS2 não pede atualização de da
+ dos - muito menos informações sensíveis\, como senhas e tokens - por e-
+ mail\, chamada telefônica ou SMS\, mensagens de WhatsApp e outros aplicat
+ ivos de conversa.\n\n
+UID:040000008200E00074C5B7101A82E00800000000502878EB486BDC01000000000000000
+ 010000000E42DD5324251DB45974CEB568C142333
+SUMMARY:Encontro Bimestral de Tecnologia e Tribos Digitais do BS2
+DTSTART;TZID=E. South America Standard Time:20260225T150000
+DTEND;TZID=E. South America Standard Time:20260225T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:7
+LOCATION:Edifcio The One em BH - Salão C e Remoto (via teams)\; Reuniões 
+ do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:7
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nReunião do Microsoft Teams\nIngressar: https://teams
+ .microsoft.com/meet/26373577129865?p=WbSAgcB4OItICRSidh<https://nam10.safe
+ links.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fmeet
+ %2F26373577129865%3Fp%3DWbSAgcB4OItICRSidh&data=05%7C02%7Cflavio.spedalett
+ i%40adiq.com.br%7Ca35783d6280f4efaf20208de74752bda%7Ce942b69635aa42dbaff51
+ 58d31fcc434%7C0%7C0%7C639076243831680457%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0e
+ U1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjo
+ yfQ%3D%3D%7C0%7C%7C%7C&sdata=Ky%2Baa2VIuwadPQ34wqjFUNXTX4%2FUNEx35iSJFCq74
+ as%3D&reserved=0>\nID da Reunião: 263 735 771 298 65\nSenha: xU2jm6P8\n__
+ ______________________________\nPrecisa de ajuda?<https://nam10.safelinks.
+ protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt
+ %3Dpt-BR&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Ca35783d6280f4efa
+ f20208de74752bda%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639076243831
+ 736429%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCI
+ sIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=eLbaK
+ B%2BcZetV4weuGlp2bkjyps8XtFIzc6FIjGQCh%2Bs%3D&reserved=0> | Referência do
+  sistema<https://nam10.safelinks.protection.outlook.com/ap/t-59584e83/?url
+ =https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_YjYy
+ ZDdlMWQtM2FiZi00MmRkLTgwNzMtNzdjYWViNjQ2YzBi%2540thread.v2%2F0%3Fcontext%3
+ D%257b%2522Tid%2522%253a%2522e942b696-35aa-42db-aff5-158d31fcc434%2522%252
+ c%2522Oid%2522%253a%2522ca227160-0c76-4ebd-b72e-2d24ef08bf93%2522%257d&dat
+ a=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Ca35783d6280f4efaf20208de7475
+ 2bda%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639076243831783479%7CUnk
+ nown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4
+ zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=2jcAqGIrq%2BJAcIp
+ z7iJEh%2FSTQ1gb%2F0C92eNq5NiAQ8Q%3D&reserved=0>\nParticipar por telefone\n
+ +55 11 3181-5371\,\,147176447#<tel:+551131815371\,\,147176447#> Brasil\, S
+ ão Paulo\nLocalizar um número local<https://nam10.safelinks.protection.o
+ utlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fe0192a2f-9d90-4
+ 39f-8192-bbb1b56d17c9%3Fid%3D147176447&data=05%7C02%7Cflavio.spedaletti%40
+ adiq.com.br%7Ca35783d6280f4efaf20208de74752bda%7Ce942b69635aa42dbaff5158d3
+ 1fcc434%7C0%7C0%7C639076243831838722%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hc
+ GkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%
+ 3D%3D%7C0%7C%7C%7C&sdata=OP98MU9ihjrTL%2FkbYDg8O9EQPCwu%2F6J8z%2FmA8X0nQmg
+ %3D&reserved=0>\nID de conferência do Telefone: 147 176 447#\nIngressar e
+ m um dispositivo de videoconferência\nChave do locatário: teams@bs2.onpe
+ xip.com\nID do Video: 116 846 752 8\nMais informações<https://nam10.safe
+ links.protection.outlook.com/?url=https%3A%2F%2Fpexip.me%2Fteams%2Fbs2.onp
+ exip.com%2F1168467528&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Ca35
+ 783d6280f4efaf20208de74752bda%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7
+ C639076243831893200%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOi
+ IwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7
+ C&sdata=PV2M1CM4Ez5AeTlME2KXHpwrjVirji%2BU9jfRuvBi0oc%3D&reserved=0>\nPara
+  organizadores: Opções de reunião<https://nam10.safelinks.protection.ou
+ tlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3Forg
+ anizerId%3Dca227160-0c76-4ebd-b72e-2d24ef08bf93%26tenantId%3De942b696-35aa
+ -42db-aff5-158d31fcc434%26threadId%3D19_meeting_YjYyZDdlMWQtM2FiZi00MmRkLT
+ gwNzMtNzdjYWViNjQ2YzBi%40thread.v2%26messageId%3D0%26language%3Dpt-BR&data
+ =05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Ca35783d6280f4efaf20208de74752
+ bda%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639076243831950082%7CUnkn
+ own%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4z
+ MiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8ONeDFvgUx17ZRh%2B
+ LafM3xpYHOyF1Xl9JdjUcburVIk%3D&reserved=0> | Redefinir o PIN de discagem<h
+ ttps://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.te
+ ams.microsoft.com%2Fusp%2Fpstnconferencing&data=05%7C02%7Cflavio.spedalett
+ i%40adiq.com.br%7Ca35783d6280f4efaf20208de74752bda%7Ce942b69635aa42dbaff51
+ 58d31fcc434%7C0%7C0%7C639076243832002045%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0e
+ U1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjo
+ yfQ%3D%3D%7C0%7C%7C%7C&sdata=9Vhjjr6BgznCQeuDWwq91%2BT00A9C9L4MJ%2FWgMGg1S
+ l0%3D&reserved=0>\n_______________________________________________________
+ _________________________\n
+UID:040000008200E00074C5B7101A82E0080000000019A0C9075EA6DC01000000000000000
+ 010000000FF2AA608DE7ED849839A0F8CC54C081B
+SUMMARY:Ausência - Exame
+DTSTART;TZID=E. South America Standard Time:20260225T170000
+DTEND;TZID=E. South America Standard Time:20260225T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[cid:image001.png@01DC9B44.14454E40]\n\n\n\nOlá\, besser!\n\n\
+ n\nTemos uma novidade importante! Esse mês estamos iniciando a adoção d
+ o GitHub Copilot aqui no BS2\, e para garantirmos que esse movimento acont
+ eça da melhor forma possível\, realizaremos um workshop de capacitação
+  para apoia-los no uso da ferramenta.\n\n\n\nO treinamento será conduzido
+  pela ActDigital\, empresa parceira que irá conduzir o workshop. O objeti
+ vo é que cada desenvolvedor consiga aproveitar ao máximo os recursos de 
+ IA.\n\n\n\n\n\nA sua participação é essencial para garantir que todos e
+ stejam preparados para utilizar o Copilot de forma segura\, eficiente e al
+ inhada ás práticas recomendadas.\n\n\n\n\n\nAté mais\,\n\nTime de Pesso
+ as e Cultura\n\n[cid:image002.png@01DC9B44.14454E40]\n\n\n\n______________
+ __________________________________________________________________\n\nReun
+ i?o do Microsoft Teams\n\nIngressar: https://teams.microsoft.com/meet/2827
+ 6757582799?p=ejC11Eah0I7N6GPNpu<https://nam10.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fteams.microsoft.com%2Fmeet%2F28276757582799%3Fp%3D
+ ejC11Eah0I7N6GPNpu&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C8f2cc2
+ 2e41e54a5e8ea808de75f2e15f%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C63
+ 9077883229791904%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwL
+ jAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&s
+ data=RP4Kxp8cm3SA9YUGZKUYucLi1IS7oH54VfbRlVIxVIs%3D&reserved=0>\n\nID da R
+ euni?o: 282 767 575 827 99\n\nSenha: yC7nW7h3\n\n_________________________
+ _______\n\nPrecisa de ajuda?<https://nam10.safelinks.protection.outlook.co
+ m/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dpt-BR&data=05%7C02
+ %7Cflavio.spedaletti%40adiq.com.br%7C8f2cc22e41e54a5e8ea808de75f2e15f%7Ce9
+ 42b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639077883229843182%7CUnknown%7CTW
+ FpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFO
+ IjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=9RVqwc9h3gehUwMvf96WT2vu2C
+ yZRwFiRLYOpm7zcWE%3D&reserved=0> | Refer?ncia do sistema<https://nam10.saf
+ elinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.micro
+ soft.com%2Fl%2Fmeetup-join%2F19%253ameeting_MDEzYWFhODUtMmQ0Mi00YjIxLTkyOD
+ UtNjU3YjFhZTMyOTg4%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2
+ 522e942b696-35aa-42db-aff5-158d31fcc434%2522%252c%2522Oid%2522%253a%25226c
+ 391e82-e1dc-456a-a31f-59dbc0eed7c4%2522%257d&data=05%7C02%7Cflavio.spedale
+ tti%40adiq.com.br%7C8f2cc22e41e54a5e8ea808de75f2e15f%7Ce942b69635aa42dbaff
+ 5158d31fcc434%7C0%7C0%7C639077883229876587%7CUnknown%7CTWFpbGZsb3d8eyJFbXB
+ 0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUI
+ joyfQ%3D%3D%7C0%7C%7C%7C&sdata=wjg6FLde%2BYPkXDetLbJFsBm2C%2FjeoEqJosggOhF
+ qdNU%3D&reserved=0>\n\nIngressar em um dispositivo de videoconfer?ncia\n\n
+ Chave do locat?rio: teams@bs2.onpexip.com<mailto:teams@bs2.onpexip.com>\n\
+ nID do Video: 117 301 586 1\n\nMais informa??es<https://nam10.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fpexip.me%2Fteams%2Fbs2.onpexip.com
+ %2F1173015861&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C8f2cc22e41e
+ 54a5e8ea808de75f2e15f%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C6390778
+ 83229898621%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMD
+ AwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=
+ yYj7MtC9hxVekmxtFhptkLmZXC8g%2F3EDZxw4TKOnMMc%3D&reserved=0>\n\nPara organ
+ izadores: Op??es de reuni?o<https://nam10.safelinks.protection.outlook.com
+ /?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%
+ 3D6c391e82-e1dc-456a-a31f-59dbc0eed7c4%26tenantId%3De942b696-35aa-42db-aff
+ 5-158d31fcc434%26threadId%3D19_meeting_MDEzYWFhODUtMmQ0Mi00YjIxLTkyODUtNjU
+ 3YjFhZTMyOTg4%40thread.v2%26messageId%3D0%26language%3Dpt-BR&data=05%7C02%
+ 7Cflavio.spedaletti%40adiq.com.br%7C8f2cc22e41e54a5e8ea808de75f2e15f%7Ce94
+ 2b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639077883229919942%7CUnknown%7CTWF
+ pbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOI
+ joiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=z3BR%2FCSD5ok2GiAXTaLjEnKyj
+ X1CIuLYi44QwCuhC4U%3D&reserved=0>\n\n_____________________________________
+ ___________________________________________\n\n\n\n\nEsta mensagem e seus 
+ anexos estão dirigidos exclusivamente aos destinatários especificados. A
+  informação neles contida pode ser confidencial\, não estando autorizad
+ a sua divulgação ou cópia. Se você recebeu por engano\, pedimos gentil
+ mente que comunique ao remetente e elimine seu conteúdo. Apesar de se tra
+ tar de e-mail corporativo\, o seu conteúdo não necessariamente é seguro
+  e/ou reflete a opinião do BS2\, que não tem qualquer responsabilidade p
+ or eventuais perdas e danos causados por este.\n\n\n\nO Banco BS2 não ped
+ e atualização de dados - muito menos informações sensíveis\, como sen
+ has e tokens - por e-mail\, chamada telefônica ou SMS\, mensagens de What
+ sApp e outros aplicativos de conversa.\n\n
+UID:040000008200E00074C5B7101A82E0080000000055D62C6B5D9BDC01000000000000000
+ 0100000008865D5795EEF134D81F8481F523E68E4
+SUMMARY:[É HOJE] Workshop de Capacitação GitHub - Online
+DTSTART;TZID=E. South America Standard Time:20260227T140000
+DTEND;TZID=E. South America Standard Time:20260227T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:15
+LOCATION:Reunião do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:15
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+RRULE:FREQ=MONTHLY;UNTIL=20260901T130000Z;INTERVAL=1;BYMONTHDAY=1
+UID:040000008200E00074C5B7101A82E0080000000080EE636E22B5DB01000000000000000
+ 0100000003D9B22372A9E8E4D883B2C03B19193C4
+SUMMARY:Enviar horas Adiq (Jira\, "Enviar último período")\; e email com 
+ horas extras para Thiago
+DTSTART;TZID=E. South America Standard Time:20260301T100000
+DTEND;TZID=E. South America Standard Time:20260301T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________\nDe: Thomaz Domingos Santos 
+ Macedo <thomaz.macedo@adiq.com.br>\nEnviado: sexta-feira\, 27 de fevereiro
+  de 2026 10:24:01 (UTC-03:00) Brasilia\nPara: Thomaz Domingos Santos Maced
+ o <thomaz.macedo@adiq.com.br>\; Alexander Matuo Sako <alexander.sako@bs2te
+ cnologia.com.br>\; //COADQ - Coordenacão de Adquirencia <coordenacao.adqu
+ irencia@brbcard.com.br>\; //GEADQ - Gerencia de Adquirencia <gerencia.adqu
+ irencia@brbcard.com.br>\nCc: Carolina Figueredo Guimaraes <carolina.guimar
+ aes@compasso.com.br>\; Gabriel Arthur Ferreira Fiusa <gabriel.fiusa@compas
+ s.uol>\nAssunto: Reunião - Projeto Mobilidade\nQuando: terça-feira\, 3 d
+ e março de 2026 14:00-14:30.\nOnde: Reuniões do Microsoft Teams\n\n\n___
+ __________________________________________________________________________
+ ___\nReunião do Microsoft Teams\nIngressar: https://teams.microsoft.com/m
+ eet/21910470897744?p=HnbIeJKWWfcODJLPYv<https://nam10.safelinks.protection
+ .outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fmeet%2F2191047089774
+ 4%3Fp%3DHnbIeJKWWfcODJLPYv&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%
+ 7Cf119bba55442434af7fd08de78935890%7Ce942b69635aa42dbaff5158d31fcc434%7C0%
+ 7C0%7C639080771424175007%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsI
+ lYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C
+ %7C%7C&sdata=ws96RqgHiTgnSuZsrhXxXAAhTTAdiTIuBfjnPF8wdZQ%3D&reserved=0>\nI
+ D da Reunião: 219 104 708 977 44\nSenha: Lj6YP3Xy\n______________________
+ __________\nPrecisa de ajuda?<https://nam10.safelinks.protection.outlook.c
+ om/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dpt-BR&data=05%7C0
+ 2%7Cflavio.spedaletti%40adiq.com.br%7Cf119bba55442434af7fd08de78935890%7Ce
+ 942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639080771424207959%7CUnknown%7CT
+ WFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkF
+ OIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=lyI%2FKo1YRVmIxgSQLebf4sA
+ Y5aj2r4muhPddtRg2J48%3D&reserved=0> | Referência do sistema<https://nam10
+ .safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.m
+ icrosoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_NTBlZThjZTUtYThkYi00NWQ0LT
+ g0OTYtMjFlNDRjNmE2NTIz%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%25
+ 3a%2522e942b696-35aa-42db-aff5-158d31fcc434%2522%252c%2522Oid%2522%253a%25
+ 2221c56542-624b-4a19-b132-fcf34286af24%2522%257d&data=05%7C02%7Cflavio.spe
+ daletti%40adiq.com.br%7Cf119bba55442434af7fd08de78935890%7Ce942b69635aa42d
+ baff5158d31fcc434%7C0%7C0%7C639080771424228145%7CUnknown%7CTWFpbGZsb3d8eyJ
+ FbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsI
+ ldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vFM20OM%2BRmPMJRwnKUwkx%2BL9OFf38UcZ5kr
+ rmU4rNoY%3D&reserved=0>\nParticipar por telefone\n+55 11 3181-5371\,\,7733
+ 20362#<tel:+551131815371\,\,773320362#> Brasil\, São Paulo\nLocalizar um 
+ número local<https://nam10.safelinks.protection.outlook.com/?url=https%3A
+ %2F%2Fdialin.teams.microsoft.com%2Fe0192a2f-9d90-439f-8192-bbb1b56d17c9%3F
+ id%3D773320362&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Cf119bba554
+ 42434af7fd08de78935890%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639080
+ 771424250361%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuM
+ DAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata
+ =G%2FiI84MjXcb78mbXEOEjiICybpQLz%2FW1FD%2FZ7IOEEag%3D&reserved=0>\nID de c
+ onferência do Telefone: 773 320 362#\nIngressar em um dispositivo de vide
+ oconferência\nChave do locatário: teams@bs2.onpexip.com\nID do Video: 11
+ 8 163 905 7\nMais informações<https://nam10.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fpexip.me%2Fteams%2Fbs2.onpexip.com%2F1181639057&da
+ ta=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Cf119bba55442434af7fd08de789
+ 35890%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639080771424268687%7CUn
+ known%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW
+ 4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gBeAvwtTQpZkQtvB
+ B2XCUbiBGJ01JZeS8G4S%2FBq8xwg%3D&reserved=0>\nPara organizadores: Opções
+  de reunião<https://nam10.safelinks.protection.outlook.com/?url=https%3A%
+ 2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%3D21c56542-624b
+ -4a19-b132-fcf34286af24%26tenantId%3De942b696-35aa-42db-aff5-158d31fcc434%
+ 26threadId%3D19_meeting_NTBlZThjZTUtYThkYi00NWQ0LTg0OTYtMjFlNDRjNmE2NTIz%4
+ 0thread.v2%26messageId%3D0%26language%3Dpt-BR&data=05%7C02%7Cflavio.spedal
+ etti%40adiq.com.br%7Cf119bba55442434af7fd08de78935890%7Ce942b69635aa42dbaf
+ f5158d31fcc434%7C0%7C0%7C639080771424286068%7CUnknown%7CTWFpbGZsb3d8eyJFbX
+ B0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldU
+ IjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GzxIS%2BxbFGi9m7DFzh5dn8lqdjGPocedy59DHsXz
+ ixg%3D&reserved=0> | Redefinir o PIN de discagem<https://nam10.safelinks.p
+ rotection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fusp%
+ 2Fpstnconferencing&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Cf119bb
+ a55442434af7fd08de78935890%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C63
+ 9080771424304537%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwL
+ jAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&s
+ data=In2qmsPY91k17GuL6u8Is2%2FLJVAkZFsgF2w0OgoIhj8%3D&reserved=0>\n_______
+ _________________________________________________________________________\
+ n
+UID:040000008200E00074C5B7101A82E0080000000044738150ECA7DC01000000000000000
+ 0100000002999D611A671D942BF184C0F36821BF8
+SUMMARY:Reunião -  Projeto Mobilidade
+DTSTART;TZID=E. South America Standard Time:20260303T140000
+DTEND;TZID=E. South America Standard Time:20260303T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PASSO 1\n\nConecte na VPN.\n\n\n\nPASSO 2\n\nClique neste link 
+ Senha BS2<https://changepassword.bancobonsucesso.com.br/> \, então coloqu
+ e no primeiro campo (senha atual) a sua senha provisória que foi informad
+ o acima\, depois preencha os dois campos a seguir (nova senha e confirme a
+  nova senha) com uma senha nova e pessoal e por fim clique em Alterar senh
+ a.\n\n\n\nPASSO 3\n\nClique neste link ao lado Senha ADIQ<https://changepa
+ ssword.adiq.com.br/> \, então coloque no primeiro campo (senha atual) a s
+ ua senha provisória que foi informado acima\, depois preencha os dois cam
+ pos a seguir (nova senha e confirme a nova senha) com uma senha nova e pes
+ soal e por fim clique em Alterar senha.\n\n\n\nPASSO 4\n\nApós troca a se
+ nhas\, desconecte a VPN e conecte a nova senha.\n\n\n\nPASSO 5\n\nCom a vp
+ n conectada\, faça o bloqueio do Windows (Crtl + Alt + Del) + enter\, e c
+ oloque a sua senha nova no Windows. Esse passo é importante\, pois é o m
+ omento que Windows guarda a senha no cofre do Windows.\n\n
+RRULE:FREQ=MONTHLY;UNTIL=20260905T130000Z;INTERVAL=1;BYMONTHDAY=5
+UID:040000008200E00074C5B7101A82E0080000000090A6B2D7495BD901000000000000000
+ 0100000006DD39774E3E97E4E9BF40CEA13FC4289
+SUMMARY:Trocar senhas BS2 e Adiq
+DTSTART;TZID=E. South America Standard Time:20260305T100000
+DTEND;TZID=E. South America Standard Time:20260305T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n___________________________________________________________
+ _____________________\nReunião do Microsoft Teams\nIngressar: https://tea
+ ms.microsoft.com/meet/29062892262368?p=6mXKtCLLbr5QiAoI4L<https://nam10.sa
+ felinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fme
+ et%2F29062892262368%3Fp%3D6mXKtCLLbr5QiAoI4L&data=05%7C02%7Cflavio.spedale
+ tti%40adiq.com.br%7C8121055971a240246d2308de7a103f7e%7Ce942b69635aa42dbaff
+ 5158d31fcc434%7C0%7C0%7C639082407416609686%7CUnknown%7CTWFpbGZsb3d8eyJFbXB
+ 0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUI
+ joyfQ%3D%3D%7C0%7C%7C%7C&sdata=d2a09glZJ9nKZ%2FKbQtYRilZ%2FEqqpWEQDtXQV4qh
+ c6WM%3D&reserved=0>\nID da Reunião: 290 628 922 623 68\nSenha: PE2io3nj\n
+ ________________________________\nPrecisa de ajuda?<https://nam10.safelink
+ s.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fom
+ kt%3Dpt-BR&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C8121055971a240
+ 246d2308de7a103f7e%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C6390824074
+ 16640968%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwM
+ CIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=h%2
+ F%2BDLadPDCjWBiU8X2fGLMm9UHrcCLX8HnJhvTcDRfM%3D&reserved=0> | Referência 
+ do sistema<https://nam10.safelinks.protection.outlook.com/ap/t-59584e83/?u
+ rl=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_ZD
+ IwMDQ0MjMtZTcyMi00NzQwLWJlMjAtYWZkZGFiZWU3OTVm%2540thread.v2%2F0%3Fcontext
+ %3D%257b%2522Tid%2522%253a%2522e942b696-35aa-42db-aff5-158d31fcc434%2522%2
+ 52c%2522Oid%2522%253a%252204183f00-d179-4783-a235-043c52e85b9d%2522%257d&d
+ ata=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C8121055971a240246d2308de7a
+ 103f7e%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639082407416660682%7CU
+ nknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXa
+ W4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=AhSUFyRod2xmbx0
+ utUMIXvP80vjtwkVQPYQCjScQc48%3D&reserved=0>\nParticipar por telefone\n+55 
+ 11 3181-5371\,\,252236716#<tel:+551131815371\,\,252236716#> Brasil\, São 
+ Paulo\nLocalizar um número local<https://nam10.safelinks.protection.outlo
+ ok.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fe0192a2f-9d90-439f-
+ 8192-bbb1b56d17c9%3Fid%3D252236716&data=05%7C02%7Cflavio.spedaletti%40adiq
+ .com.br%7C8121055971a240246d2308de7a103f7e%7Ce942b69635aa42dbaff5158d31fcc
+ 434%7C0%7C0%7C639082407416680746%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiO
+ nRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3
+ D%7C0%7C%7C%7C&sdata=GlOrLQgO%2FUYsjb4KEmby2lgiS%2Fv8VM5K%2BeEd3fjNWDw%3D&
+ reserved=0>\nID de conferência do Telefone: 252 236 716#\nIngressar em um
+  dispositivo de videoconferência\nChave do locatário: teams@bs2.onpexip.
+ com\nID do Video: 117 501 340 3\nMais informações<https://nam10.safelink
+ s.protection.outlook.com/?url=https%3A%2F%2Fpexip.me%2Fteams%2Fbs2.onpexip
+ .com%2F1175013403&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C8121055
+ 971a240246d2308de7a103f7e%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639
+ 082407416699910%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLj
+ AuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sd
+ ata=aKx2O5m%2Fl%2FKVmeMUFOOIPCoMCYDiIQtNb6BbNgSLQBA%3D&reserved=0>\nPara o
+ rganizadores: Opções de reunião<https://nam10.safelinks.protection.outl
+ ook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3Forgan
+ izerId%3D04183f00-d179-4783-a235-043c52e85b9d%26tenantId%3De942b696-35aa-4
+ 2db-aff5-158d31fcc434%26threadId%3D19_meeting_ZDIwMDQ0MjMtZTcyMi00NzQwLWJl
+ MjAtYWZkZGFiZWU3OTVm%40thread.v2%26messageId%3D0%26language%3Dpt-BR&data=0
+ 5%7C02%7Cflavio.spedaletti%40adiq.com.br%7C8121055971a240246d2308de7a103f7
+ e%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639082407416726038%7CUnknow
+ n%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMi
+ IsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pEM%2BKx7oYwT%2B03xI
+ Jc5V6ghxeAJbOw%2BA7BvEgDYB2nc%3D&reserved=0> | Redefinir o PIN de discagem
+ <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.
+ teams.microsoft.com%2Fusp%2Fpstnconferencing&data=05%7C02%7Cflavio.spedale
+ tti%40adiq.com.br%7C8121055971a240246d2308de7a103f7e%7Ce942b69635aa42dbaff
+ 5158d31fcc434%7C0%7C0%7C639082407416746941%7CUnknown%7CTWFpbGZsb3d8eyJFbXB
+ 0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUI
+ joyfQ%3D%3D%7C0%7C%7C%7C&sdata=P6Q5etCMujPTUpamj2LwrJAAu9yZmPAyTnulYOqFAKE
+ %3D&reserved=0>\n_________________________________________________________
+ _______________________\n\n\nEsta mensagem e seus anexos estão dirigidos 
+ exclusivamente aos destinatários especificados. A informação neles cont
+ ida pode ser confidencial\, não estando autorizada sua divulgação ou c
+ ópia. Se você recebeu por engano\, pedimos gentilmente que comunique ao 
+ remetente e elimine seu conteúdo. Apesar de se tratar de e-mail corporati
+ vo\, o seu conteúdo não necessariamente é seguro e/ou reflete a opiniã
+ o do BS2\, que não tem qualquer responsabilidade por eventuais perdas e d
+ anos causados por este.\n\n\n\nO Banco BS2 não pede atualização de dado
+ s - muito menos informações sensíveis\, como senhas e tokens - por e-ma
+ il\, chamada telefônica ou SMS\, mensagens de WhatsApp e outros aplicativ
+ os de conversa.\n\n
+UID:040000008200E00074C5B7101A82E00800000000F878131BF9ABDC01000000000000000
+ 010000000B1BD13F62C11804782AF4C7868EA5D65
+SUMMARY:Refinamento - Cardonfile
+DTSTART;TZID=E. South America Standard Time:20260305T103000
+DTEND;TZID=E. South America Standard Time:20260305T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nMicrosoft Teams Need help?<https://nam10.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3
+ Den-US&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Cb50ecda3a1094c9155
+ 6608de7b84d047%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C63908400753582
+ 9608%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsI
+ lAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tXmZW6W
+ Qek7e%2Bvg3xlV8bY24P9WrXZl8HpYxUM6HJFs%3D&reserved=0>\nJoin the meeting no
+ w<https://nam10.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%
+ 3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_OGZlYzJmNDg
+ tMmVhZi00MDU2LWE1ZTMtNmE3NWFhYTJhNjhh%2540thread.v2%2F0%3Fcontext%3D%257b%
+ 2522Tid%2522%253a%2522e942b696-35aa-42db-aff5-158d31fcc434%2522%252c%2522O
+ id%2522%253a%2522c38987e6-711d-4e7d-8f9b-9c9528416c44%2522%257d&data=05%7C
+ 02%7Cflavio.spedaletti%40adiq.com.br%7Cb50ecda3a1094c91556608de7b84d047%7C
+ e942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639084007535872244%7CUnknown%7C
+ TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIk
+ FOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wTKfi46YVeGXblFSGZmxZTa2
+ lRXM%2FcFkOP7pRq79uqs%3D&reserved=0>\nMeeting ID: 293 868 246 854\nPasscod
+ e: Hh7Ad2MS\n________________________________\nJoin on a video conferencin
+ g device\nTenant key: teams@bs2.onpexip.com\nVideo ID: 115 993 809 1\nMore
+  info<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpe
+ xip.me%2Fteams%2Fbs2.onpexip.com%2F1159938091&data=05%7C02%7Cflavio.spedal
+ etti%40adiq.com.br%7Cb50ecda3a1094c91556608de7b84d047%7Ce942b69635aa42dbaf
+ f5158d31fcc434%7C0%7C0%7C639084007535903875%7CUnknown%7CTWFpbGZsb3d8eyJFbX
+ B0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldU
+ IjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7Lp8Eu02vJA2aFW7FMmt4JgBPdDOOhpGlg1rXkBgQw
+ s%3D&reserved=0>\nFor organizers: Meeting options<https://nam10.safelinks.
+ protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOpt
+ ions%2F%3ForganizerId%3Dc38987e6-711d-4e7d-8f9b-9c9528416c44%26tenantId%3D
+ e942b696-35aa-42db-aff5-158d31fcc434%26threadId%3D19_meeting_OGZlYzJmNDgtM
+ mVhZi00MDU2LWE1ZTMtNmE3NWFhYTJhNjhh%40thread.v2%26messageId%3D0%26language
+ %3Den-US&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7Cb50ecda3a1094c91
+ 556608de7b84d047%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639084007535
+ 931998%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCI
+ sIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=WP%2F
+ GwTblSKZaOfWnHIo5grNDgIXe7LYgC4o4MfjIi1I%3D&reserved=0>\n_________________
+ _______________________________________________________________\n\n\nEsta 
+ mensagem e seus anexos estão dirigidos exclusivamente aos destinatários 
+ especificados. A informação neles contida pode ser confidencial\, não e
+ stando autorizada sua divulgação ou cópia. Se você recebeu por engano\
+ , pedimos gentilmente que comunique ao remetente e elimine seu conteúdo. 
+ Apesar de se tratar de e-mail corporativo\, o seu conteúdo não necessari
+ amente é seguro e/ou reflete a opinião do BS2\, que não tem qualquer re
+ sponsabilidade por eventuais perdas e danos causados por este.\n\n\n\nO Ba
+ nco BS2 não pede atualização de dados - muito menos informações sens
+ íveis\, como senhas e tokens - por e-mail\, chamada telefônica ou SMS\, 
+ mensagens de WhatsApp e outros aplicativos de conversa.\n\n
+UID:040000008200E00074C5B7101A82E00800000000CC30CFD3F3E4DB01000000000000000
+ 0100000000C583DDD5CBBB04DB145DB3A0AAE9254
+RECURRENCE-ID;TZID=E. South America Standard Time:20260306T103000
+SUMMARY:Review_Planning - E-Commerce
+DTSTART;TZID=E. South America Standard Time:20260306T153000
+DTEND;TZID=E. South America Standard Time:20260306T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:9
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:9
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nReunião do Microsoft Teams\nIngressar: https://teams
+ .microsoft.com/meet/21254209649402?p=JN8kFeutxBotlxBbCO<https://nam10.safe
+ links.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fmeet
+ %2F21254209649402%3Fp%3DJN8kFeutxBotlxBbCO&data=05%7C02%7Cflavio.spedalett
+ i%40adiq.com.br%7C5c9165e576754e93de8908de7dd94a21%7Ce942b69635aa42dbaff51
+ 58d31fcc434%7C0%7C0%7C639086569401816130%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0e
+ U1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjo
+ yfQ%3D%3D%7C0%7C%7C%7C&sdata=tYRSIV%2Fjd9FKCnFG5lpnTvSZBsg5G%2FI%2BWnowlQB
+ %2BHt4%3D&reserved=0>\nID da Reunião: 212 542 096 494 02\nSenha: Td6Tj7uL
+ \n________________________________\nPrecisa de ajuda?<https://nam10.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3F
+ omkt%3Dpt-BR&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C5c9165e57675
+ 4e93de8908de7dd94a21%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C63908656
+ 9401840077%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDA
+ wMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=d
+ 0HneW629hkbEXbCmimsrhK0jdUgCbLukPGjVza6Lx4%3D&reserved=0> | Referência do
+  sistema<https://nam10.safelinks.protection.outlook.com/ap/t-59584e83/?url
+ =https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_ZmYx
+ NjY5YzMtYmM3MC00NDYwLWFlM2MtMWNiMjc0ZmIzMTJi%2540thread.v2%2F0%3Fcontext%3
+ D%257b%2522Tid%2522%253a%2522e942b696-35aa-42db-aff5-158d31fcc434%2522%252
+ c%2522Oid%2522%253a%252204183f00-d179-4783-a235-043c52e85b9d%2522%257d&dat
+ a=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C5c9165e576754e93de8908de7dd9
+ 4a21%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639086569401857450%7CUnk
+ nown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4
+ zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6k%2BIrKxm4YGFcDj
+ hbKVYVzdRI7G%2FXtkdP4HdQgBhH28%3D&reserved=0>\nParticipar por telefone\n+5
+ 5 11 3181-5371\,\,87461007#<tel:+551131815371\,\,87461007#> Brasil\, São 
+ Paulo\nLocalizar um número local<https://nam10.safelinks.protection.outlo
+ ok.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fe0192a2f-9d90-439f-
+ 8192-bbb1b56d17c9%3Fid%3D87461007&data=05%7C02%7Cflavio.spedaletti%40adiq.
+ com.br%7C5c9165e576754e93de8908de7dd94a21%7Ce942b69635aa42dbaff5158d31fcc4
+ 34%7C0%7C0%7C639086569401878842%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOn
+ RydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D
+ %7C0%7C%7C%7C&sdata=JXWtgyxqqWB488QN1ORt3qwzSIZQ1omZXLDHFoiaQfk%3D&reserve
+ d=0>\nID de conferência do Telefone: 874 610 07#\nIngressar em um disposi
+ tivo de videoconferência\nChave do locatário: teams@bs2.onpexip.com\nID 
+ do Video: 114 768 946 1\nMais informações<https://nam10.safelinks.protec
+ tion.outlook.com/?url=https%3A%2F%2Fpexip.me%2Fteams%2Fbs2.onpexip.com%2F1
+ 147689461&data=05%7C02%7Cflavio.spedaletti%40adiq.com.br%7C5c9165e576754e9
+ 3de8908de7dd94a21%7Ce942b69635aa42dbaff5158d31fcc434%7C0%7C0%7C63908656940
+ 1900184%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMC
+ IsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2B3
+ Nf4KGMlU%2FSghBoWIns1CY0xTnqfI9rGAmXBa2MjHk%3D&reserved=0>\nPara organizad
+ ores: Opções de reunião<https://nam10.safelinks.protection.outlook.com/
+ ?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%3
+ D04183f00-d179-4783-a235-043c52e85b9d%26tenantId%3De942b696-35aa-42db-aff5
+ -158d31fcc434%26threadId%3D19_meeting_ZmYxNjY5YzMtYmM3MC00NDYwLWFlM2MtMWNi
+ Mjc0ZmIzMTJi%40thread.v2%26messageId%3D0%26language%3Dpt-BR&data=05%7C02%7
+ Cflavio.spedaletti%40adiq.com.br%7C5c9165e576754e93de8908de7dd94a21%7Ce942
+ b69635aa42dbaff5158d31fcc434%7C0%7C0%7C639086569401918299%7CUnknown%7CTWFp
+ bGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIj
+ oiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vVWdKYkRzonU%2BW8dwt8kTaENwi
+ IASZ6eWmQ9lWMweCQ%3D&reserved=0> | Redefinir o PIN de discagem<https://nam
+ 10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.micros
+ oft.com%2Fusp%2Fpstnconferencing&data=05%7C02%7Cflavio.spedaletti%40adiq.c
+ om.br%7C5c9165e576754e93de8908de7dd94a21%7Ce942b69635aa42dbaff5158d31fcc43
+ 4%7C0%7C0%7C639086569401938121%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnR
+ ydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%
+ 7C0%7C%7C%7C&sdata=1vBqvHdNE92fUhTHL1ptvfD%2BEurJlr48aBmW6SmCr1k%3D&reserv
+ ed=0>\n___________________________________________________________________
+ _____________\n\n\nEsta mensagem e seus anexos estão dirigidos exclusivam
+ ente aos destinatários especificados. A informação neles contida pode s
+ er confidencial\, não estando autorizada sua divulgação ou cópia. Se v
+ ocê recebeu por engano\, pedimos gentilmente que comunique ao remetente e
+  elimine seu conteúdo. Apesar de se tratar de e-mail corporativo\, o seu 
+ conteúdo não necessariamente é seguro e/ou reflete a opinião do BS2\, 
+ que não tem qualquer responsabilidade por eventuais perdas e danos causad
+ os por este.\n\n\n\nO Banco BS2 não pede atualização de dados - muito m
+ enos informações sensíveis\, como senhas e tokens - por e-mail\, chamad
+ a telefônica ou SMS\, mensagens de WhatsApp e outros aplicativos de conve
+ rsa.\n\n
+UID:040000008200E00074C5B7101A82E00800000000FF16AC25C2AFDC01000000000000000
+ 0100000009A9C9D032A5A9F4E8883D258F462411B
+SUMMARY:Teste de Integração
+DTSTART;TZID=E. South America Standard Time:20260309T103000
+DTEND;TZID=E. South America Standard Time:20260309T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000028CEF1B381B1DC01000000000000000
+ 010000000D40B18056EA8DD4DB5B52CEBEF19D54F
+SUMMARY:exportar atividades jira com estimativa
+DTSTART;TZID=E. South America Standard Time:20260312T090000
+DTEND;TZID=E. South America Standard Time:20260312T093000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nReunião do Microsoft Teams\nIngressar: https://teams
+ .microsoft.com/meet/22617632446629?p=c85Ikcaj2sWobBLJRf\nID da Reunião: 2
+ 26 176 324 466 29\nSenha: YQ3VZ2Ab\n________________________________\nPrec
+ isa de ajuda?<https://aka.ms/JoinTeamsMeeting?omkt=pt-BR> | Referência do
+  sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZiZGYxMm
+ QtODRhZC00NGYyLTg4ZTUtODM0ZmMwYmM4MDBi%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%22e942b696-35aa-42db-aff5-158d31fcc434%22%2c%22Oid%22%3a%2274e025be-0d1
+ f-48cc-a361-3e7e20ffa72b%22%7d>\nParticipar por telefone\n+55 11 3181-5371
+ \,\,397182130#<tel:+551131815371\,\,397182130#> Brasil\, São Paulo\nLocal
+ izar um número local<https://dialin.teams.microsoft.com/e0192a2f-9d90-439
+ f-8192-bbb1b56d17c9?id=397182130>\nID de conferência do Telefone: 397 182
+  130#\nIngressar em um dispositivo de videoconferência\nChave do locatár
+ io: teams@bs2.onpexip.com\nID do Video: 117 317 919 6\nMais informações<
+ https://pexip.me/teams/bs2.onpexip.com/1173179196>\nPara organizadores: Op
+ ções de reunião<https://teams.microsoft.com/meetingOptions/?organizerId
+ =74e025be-0d1f-48cc-a361-3e7e20ffa72b&tenantId=e942b696-35aa-42db-aff5-158
+ d31fcc434&threadId=19_meeting_YmZiZGYxMmQtODRhZC00NGYyLTg4ZTUtODM0ZmMwYmM4
+ MDBi@thread.v2&messageId=0&language=pt-BR> | Redefinir o PIN de discagem<h
+ ttps://dialin.teams.microsoft.com/usp/pstnconferencing>\n_________________
+ _______________________________________________________________\n
+RRULE:FREQ=DAILY;UNTIL=20260828T180000Z;INTERVAL=42
+UID:040000008200E00074C5B7101A82E0080000000020C2983567B1DC01000000000000000
+ 01000000014F1F545C90E5E4BBF5C22B3B9804761
+SUMMARY:1:1 Elton/Flavio
+DTSTART;TZID=E. South America Standard Time:20260313T150000
+DTEND;TZID=E. South America Standard Time:20260313T153000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nReunião do Microsoft Teams\nIngressar: https://teams
+ .microsoft.com/meet/25577059753758?p=evHy9OZ3mmIOylEUSU\nID da Reunião: 2
+ 55 770 597 537 58\nSenha: Zr9f4u8a\n________________________________\nPrec
+ isa de ajuda?<https://aka.ms/JoinTeamsMeeting?omkt=pt-BR> | Referência do
+  sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDdjNzUzN2
+ ItZTJlNy00MTFmLWExZjQtYzcwMjZiZTI2Y2E5%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%22e942b696-35aa-42db-aff5-158d31fcc434%22%2c%22Oid%22%3a%2274e025be-0d1
+ f-48cc-a361-3e7e20ffa72b%22%7d>\nParticipar por telefone\n+55 11 3181-5371
+ \,\,934282921#<tel:+551131815371\,\,934282921#> Brasil\, São Paulo\nLocal
+ izar um número local<https://dialin.teams.microsoft.com/e0192a2f-9d90-439
+ f-8192-bbb1b56d17c9?id=934282921>\nID de conferência do Telefone: 934 282
+  921#\nIngressar em um dispositivo de videoconferência\nChave do locatár
+ io: teams@bs2.onpexip.com\nID do Video: 115 806 736 4\nMais informações<
+ https://pexip.me/teams/bs2.onpexip.com/1158067364>\nPara organizadores: Op
+ ções de reunião<https://teams.microsoft.com/meetingOptions/?organizerId
+ =74e025be-0d1f-48cc-a361-3e7e20ffa72b&tenantId=e942b696-35aa-42db-aff5-158
+ d31fcc434&threadId=19_meeting_NDdjNzUzN2ItZTJlNy00MTFmLWExZjQtYzcwMjZiZTI2
+ Y2E5@thread.v2&messageId=0&language=pt-BR> | Redefinir o PIN de discagem<h
+ ttps://dialin.teams.microsoft.com/usp/pstnconferencing>\n_________________
+ _______________________________________________________________\n
+UID:040000008200E00074C5B7101A82E008000000005D8973C5F3AFDC01000000000000000
+ 010000000300D75B51E2FF74C930B9AD61D938CB6
+SUMMARY:1:1 Ferri/Flavio
+DTSTART;TZID=E. South America Standard Time:20260316T103000
+DTEND;TZID=E. South America Standard Time:20260316T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nReunião do Microsoft Teams\nIngressar: https://teams
+ .microsoft.com/meet/29836542598571?p=e9N6bktp3wqFs0mtHL\nID da Reunião: 2
+ 98 365 425 985 71\nSenha: Zv6aX2zF\n________________________________\nPrec
+ isa de ajuda?<https://aka.ms/JoinTeamsMeeting?omkt=pt-BR> | Referência do
+  sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2RkMDM3YW
+ QtMzdlOC00ODdhLThhODUtMTZkNmYxMTdlY2Zm%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%22e942b696-35aa-42db-aff5-158d31fcc434%22%2c%22Oid%22%3a%2274e025be-0d1
+ f-48cc-a361-3e7e20ffa72b%22%7d>\nParticipar por telefone\n+55 11 3181-5371
+ \,\,113561586#<tel:+551131815371\,\,113561586#> Brasil\, São Paulo\nLocal
+ izar um número local<https://dialin.teams.microsoft.com/e0192a2f-9d90-439
+ f-8192-bbb1b56d17c9?id=113561586>\nID de conferência do Telefone: 113 561
+  586#\nIngressar em um dispositivo de videoconferência\nChave do locatár
+ io: teams@bs2.onpexip.com\nID do Video: 119 974 786 1\nMais informações<
+ https://pexip.me/teams/bs2.onpexip.com/1199747861>\nPara organizadores: Op
+ ções de reunião<https://teams.microsoft.com/meetingOptions/?organizerId
+ =74e025be-0d1f-48cc-a361-3e7e20ffa72b&tenantId=e942b696-35aa-42db-aff5-158
+ d31fcc434&threadId=19_meeting_N2RkMDM3YWQtMzdlOC00ODdhLThhODUtMTZkNmYxMTdl
+ Y2Zm@thread.v2&messageId=0&language=pt-BR> | Redefinir o PIN de discagem<h
+ ttps://dialin.teams.microsoft.com/usp/pstnconferencing>\n_________________
+ _______________________________________________________________\n
+RRULE:FREQ=DAILY;UNTIL=20260901T170000Z;INTERVAL=42
+UID:040000008200E00074C5B7101A82E00800000000EFCE8D8C4DB5DC01000000000000000
+ 010000000329A90A41F629F4A8E7F6A12A3B60C8F
+SUMMARY:1:1 - Douglas/Flavio
+DTSTART;TZID=E. South America Standard Time:20260317T140000
+DTEND;TZID=E. South America Standard Time:20260317T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000006968B18BE0B6DC01000000000000000
+ 0100000004A54AD6CABFDD743BCEC3945916C527F
+SUMMARY:teste
+DTSTART;TZID=E. South America Standard Time:20260318T160000
+DTEND;TZID=E. South America Standard Time:20260318T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000005ABA67B6E5B6DC01000000000000000
+ 010000000326A03E4F060C143A1DBDFF5F2C63D96
+SUMMARY:teste2
+DTSTART;TZID=E. South America Standard Time:20260318T173000
+DTEND;TZID=E. South America Standard Time:20260318T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nReunião do Microsoft Teams\nIngressar: https://teams
+ .microsoft.com/meet/25255989738544?p=Xer0NkfW6SxShPCY3w\nID da Reunião: 2
+ 52 559 897 385 44\nSenha: DC6pU9pS\n________________________________\nPrec
+ isa de ajuda?<https://aka.ms/JoinTeamsMeeting?omkt=pt-BR> | Referência do
+  sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTNlZTNkZD
+ YtM2FlZi00MDlkLWFlMTgtNGNhN2Q1ODIyODYy%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%22e942b696-35aa-42db-aff5-158d31fcc434%22%2c%22Oid%22%3a%2274e025be-0d1
+ f-48cc-a361-3e7e20ffa72b%22%7d>\nParticipar por telefone\n+55 11 3181-5371
+ \,\,855851326#<tel:+551131815371\,\,855851326#> Brasil\, São Paulo\nLocal
+ izar um número local<https://dialin.teams.microsoft.com/e0192a2f-9d90-439
+ f-8192-bbb1b56d17c9?id=855851326>\nID de conferência do Telefone: 855 851
+  326#\nIngressar em um dispositivo de videoconferência\nChave do locatár
+ io: teams@bs2.onpexip.com\nID do Video: 112 955 749 1\nMais informações<
+ https://pexip.me/teams/bs2.onpexip.com/1129557491>\nPara organizadores: Op
+ ções de reunião<https://teams.microsoft.com/meetingOptions/?organizerId
+ =74e025be-0d1f-48cc-a361-3e7e20ffa72b&tenantId=e942b696-35aa-42db-aff5-158
+ d31fcc434&threadId=19_meeting_ZTNlZTNkZDYtM2FlZi00MDlkLWFlMTgtNGNhN2Q1ODIy
+ ODYy@thread.v2&messageId=0&language=pt-BR> | Redefinir o PIN de discagem<h
+ ttps://dialin.teams.microsoft.com/usp/pstnconferencing>\n_________________
+ _______________________________________________________________\n
+RRULE:FREQ=DAILY;UNTIL=20260903T180000Z;INTERVAL=42
+UID:040000008200E00074C5B7101A82E008000000009BBD89C067B1DC01000000000000000
+ 0100000009C4D8B8EA8F62841BCEC363D7DEBB0F5
+SUMMARY:1:1 Rafael/Flavio
+DTSTART;TZID=E. South America Standard Time:20260319T150000
+DTEND;TZID=E. South America Standard Time:20260319T153000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nReunião do Microsoft Teams\nIngressar: https://teams
+ .microsoft.com/meet/26679219099606?p=wYYKBkH06ZdHQcR4uA\nID da Reunião: 2
+ 66 792 190 996 06\nSenha: u5hS3mv7\n________________________________\nPrec
+ isa de ajuda?<https://aka.ms/JoinTeamsMeeting?omkt=pt-BR> | Referência do
+  sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTIzOWU0OT
+ MtMDcwNy00YjcwLTk0MjUtNjlkOGEzYmJlYWY5%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%22e942b696-35aa-42db-aff5-158d31fcc434%22%2c%22Oid%22%3a%2274e025be-0d1
+ f-48cc-a361-3e7e20ffa72b%22%7d>\nParticipar por telefone\n+55 11 3181-5371
+ \,\,989711730#<tel:+551131815371\,\,989711730#> Brasil\, São Paulo\nLocal
+ izar um número local<https://dialin.teams.microsoft.com/e0192a2f-9d90-439
+ f-8192-bbb1b56d17c9?id=989711730>\nID de conferência do Telefone: 989 711
+  730#\nIngressar em um dispositivo de videoconferência\nChave do locatár
+ io: teams@bs2.onpexip.com\nID do Video: 114 800 556 8\nMais informações<
+ https://pexip.me/teams/bs2.onpexip.com/1148005568>\nPara organizadores: Op
+ ções de reunião<https://teams.microsoft.com/meetingOptions/?organizerId
+ =74e025be-0d1f-48cc-a361-3e7e20ffa72b&tenantId=e942b696-35aa-42db-aff5-158
+ d31fcc434&threadId=19_meeting_YTIzOWU0OTMtMDcwNy00YjcwLTk0MjUtNjlkOGEzYmJl
+ YWY5@thread.v2&messageId=0&language=pt-BR> | Redefinir o PIN de discagem<h
+ ttps://dialin.teams.microsoft.com/usp/pstnconferencing>\n_________________
+ _______________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000C4D781084DB5DC01000000000000000
+ 0100000000F028BCB21474A488D368793B8489FD2
+SUMMARY:Acompanhamento Ferri/Flavio
+DTSTART;TZID=E. South America Standard Time:20260323T103000
+DTEND;TZID=E. South America Standard Time:20260323T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nReunião do Microsoft Teams\nIngressar: https://teams
+ .microsoft.com/meet/21461722155876?p=yFNGqkiy0IkPa5Rp3Z\nID da Reunião: 2
+ 14 617 221 558 76\nSenha: Bi32ZS7u\n________________________________\nPrec
+ isa de ajuda?<https://aka.ms/JoinTeamsMeeting?omkt=pt-BR> | Referência do
+  sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODIxMjU0M2
+ MtYTJjMy00YmFhLThkZWEtMzdmZjg2ZTc5MzIy%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%22e942b696-35aa-42db-aff5-158d31fcc434%22%2c%22Oid%22%3a%2274e025be-0d1
+ f-48cc-a361-3e7e20ffa72b%22%7d>\nParticipar por telefone\n+55 11 3181-5371
+ \,\,433115439#<tel:+551131815371\,\,433115439#> Brasil\, São Paulo\nLocal
+ izar um número local<https://dialin.teams.microsoft.com/e0192a2f-9d90-439
+ f-8192-bbb1b56d17c9?id=433115439>\nID de conferência do Telefone: 433 115
+  439#\nIngressar em um dispositivo de videoconferência\nChave do locatár
+ io: teams@bs2.onpexip.com\nID do Video: 118 531 743 9\nMais informações<
+ https://pexip.me/teams/bs2.onpexip.com/1185317439>\nPara organizadores: Op
+ ções de reunião<https://teams.microsoft.com/meetingOptions/?organizerId
+ =74e025be-0d1f-48cc-a361-3e7e20ffa72b&tenantId=e942b696-35aa-42db-aff5-158
+ d31fcc434&threadId=19_meeting_ODIxMjU0M2MtYTJjMy00YmFhLThkZWEtMzdmZjg2ZTc5
+ MzIy@thread.v2&messageId=0&language=pt-BR> | Redefinir o PIN de discagem<h
+ ttps://dialin.teams.microsoft.com/usp/pstnconferencing>\n_________________
+ _______________________________________________________________\n
+RRULE:FREQ=DAILY;UNTIL=20260907T140000Z;INTERVAL=42
+UID:040000008200E00074C5B7101A82E008000000006E1507953EB6DC01000000000000000
+ 010000000394130D049EC1C418EB65D099A930A9B
+SUMMARY:1:1 Marcelo/Flavio
+DTSTART;TZID=E. South America Standard Time:20260323T110000
+DTEND;TZID=E. South America Standard Time:20260323T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260318T144427Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Reuniões do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+END:VCALENDAR
