@@ -12,11 +12,12 @@ app = func.FunctionApp()
 
 logger = logging.getLogger(__name__)
 
+RUN_ON_STARTUP = os.environ.get("RUN_ON_STARTUP", "false").lower() == "true"
 
 @app.timer_trigger(
     schedule="0 */3 * * * *",  # Every 3 minutes
     arg_name="timer",
-    run_on_startup=False,
+    run_on_startup=RUN_ON_STARTUP,
 )
 def calendar_sync(timer: func.TimerRequest) -> None:
     """Main sync function: fetch ICS → diff → sync to Google Calendar → save state."""
@@ -39,7 +40,7 @@ def calendar_sync(timer: func.TimerRequest) -> None:
     diff = compute_diff(current_events, state)
 
     if not diff.to_create and not diff.to_update and not diff.to_delete:
-        logger.info("No changes detected, skipping sync")
+        logger.info("✅ Nenhuma alteração detectada, sync ignorado")
         return
 
     # 4. Apply changes to Google Calendar
@@ -48,7 +49,9 @@ def calendar_sync(timer: func.TimerRequest) -> None:
         state[event.uid] = {
             "google_id": google_id,
             "sequence": event.sequence,
-            "last_modified": event.last_modified,
+            "dtstart": event.dtstart.isoformat(),
+            "dtend": event.dtend.isoformat(),
+            "summary": event.summary,
         }
 
     for event, google_id in diff.to_update:
@@ -56,16 +59,19 @@ def calendar_sync(timer: func.TimerRequest) -> None:
         state[event.uid] = {
             "google_id": google_id,
             "sequence": event.sequence,
-            "last_modified": event.last_modified,
+            "dtstart": event.dtstart.isoformat(),
+            "dtend": event.dtend.isoformat(),
+            "summary": event.summary,
         }
 
-    for google_id in diff.to_delete:
+    for google_id, summary in diff.to_delete:
         delete_event(google_credentials, google_calendar_id, google_id)
 
     # Remove deleted UIDs from state
+    deleted_google_ids = {gid for gid, _ in diff.to_delete}
     deleted_uids = [
         uid for uid, s in state.items()
-        if s["google_id"] in diff.to_delete
+        if s["google_id"] in deleted_google_ids
     ]
     for uid in deleted_uids:
         del state[uid]
@@ -73,9 +79,25 @@ def calendar_sync(timer: func.TimerRequest) -> None:
     # 5. Save updated state
     save_state(storage_connection, state)
 
-    logger.info(
-        "Sync complete: %d created, %d updated, %d deleted",
-        len(diff.to_create),
-        len(diff.to_update),
-        len(diff.to_delete),
-    )
+    # 6. Detailed summary log
+    n_create = len(diff.to_create)
+    n_update = len(diff.to_update)
+    n_delete = len(diff.to_delete)
+
+    logger.info("➕ %d evento(s) criado(s)%s",
+                n_create,
+                ":" if n_create else "")
+    for event in diff.to_create:
+        logger.info("   • %s", event.summary)
+
+    logger.info("🔄 %d evento(s) atualizado(s)%s",
+                n_update,
+                ":" if n_update else "")
+    for event, _ in diff.to_update:
+        logger.info("   • %s", event.summary)
+
+    logger.info("🗑️  %d evento(s) excluído(s)%s",
+                n_delete,
+                ":" if n_delete else "")
+    for _, summary in diff.to_delete:
+        logger.info("   • %s", summary)
