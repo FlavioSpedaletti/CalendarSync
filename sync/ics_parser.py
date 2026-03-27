@@ -31,6 +31,7 @@ class CalendarEvent:
     sequence: int
     last_modified: str
     all_day: bool
+    rrule: str | None = None
 
 
 def fetch_and_parse(ics_url: str) -> dict[str, CalendarEvent]:
@@ -60,8 +61,22 @@ def fetch_and_parse(ics_url: str) -> dict[str, CalendarEvent]:
         dtend = dtend_prop.dt if dtend_prop else dtstart
         all_day = isinstance(dtstart, date) and not isinstance(dtstart, datetime)
 
-        # Skip past events (use dtend so in-progress events are kept)
-        if not _is_future_event(dtend):
+        rrule_prop = component.get("RRULE")
+        rrule_str = None
+        has_future_recurrence = False
+
+        if rrule_prop:
+            rrule_str = rrule_prop.to_ical().decode("utf-8")
+            until_values = rrule_prop.get("UNTIL")
+            if until_values:
+                 until_dt = until_values[0] if isinstance(until_values, list) else until_values
+                 has_future_recurrence = _is_future_event(until_dt)
+            else:
+                 has_future_recurrence = True
+
+        # Skip past events (use dtend so in-progress events are kept),
+        # unless it has a recurrence targeting future dates.
+        if not _is_future_event(dtend) and not has_future_recurrence:
             continue
 
         sequence = int(component.get("SEQUENCE", 0))
@@ -78,6 +93,7 @@ def fetch_and_parse(ics_url: str) -> dict[str, CalendarEvent]:
             sequence=sequence,
             last_modified=last_modified,
             all_day=all_day,
+            rrule=rrule_str,
         )
 
     logger.info("Parsed %d events from ICS", len(events))

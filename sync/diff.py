@@ -38,6 +38,7 @@ def compute_diff(
                 or event.dtstart.isoformat() != state.get("dtstart")
                 or event.dtend.isoformat() != state.get("dtend")
                 or event.summary != state.get("summary")
+                or event.rrule != state.get("rrule")
             ):
                 to_update.append((event, state["google_id"]))
 

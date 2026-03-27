@@ -52,6 +52,7 @@ def calendar_sync(timer: func.TimerRequest) -> None:
             "dtstart": event.dtstart.isoformat(),
             "dtend": event.dtend.isoformat(),
             "summary": event.summary,
+            "rrule": event.rrule,
         }
 
     for event, google_id in diff.to_update:
@@ -62,6 +63,7 @@ def calendar_sync(timer: func.TimerRequest) -> None:
             "dtstart": event.dtstart.isoformat(),
             "dtend": event.dtend.isoformat(),
             "summary": event.summary,
+            "rrule": event.rrule,
         }
 
     for google_id, summary in diff.to_delete:

@@ -33,11 +33,16 @@ def _build_event_body(event: CalendarEvent) -> dict:
         start = {"dateTime": dtstart.isoformat(), "timeZone": str(dtstart.tzinfo) if dtstart.tzinfo else "UTC"}
         end = {"dateTime": dtend.isoformat(), "timeZone": str(dtend.tzinfo) if dtend.tzinfo else "UTC"}
 
-    return {
+    body = {
         "summary": title,
         "start": start,
         "end": end,
     }
+
+    if event.rrule:
+        body["recurrence"] = [f"RRULE:{event.rrule}"]
+        
+    return body
 
 
 def create_event(
