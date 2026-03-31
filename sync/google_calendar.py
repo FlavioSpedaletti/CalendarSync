@@ -37,6 +37,16 @@ def _build_event_body(event: CalendarEvent) -> dict:
         "summary": title,
         "start": start,
         "end": end,
+        # O campo "reminders" abaixo define um lembrete popup no momento do evento.
+        # IMPORTANTE: como os eventos são criados por uma Service Account (não por um
+        # usuário real), este lembrete fica associado à conta da Service Account, que
+        # não possui app nem dispositivo — portanto a notificação push NUNCA é entregue
+        # por este mecanismo.
+        #
+        # Para receber notificações push, configure um lembrete padrão diretamente no
+        # app do Google Calendar: selecione o calendário compartilhado → Configurações
+        # → "Notificações de eventos" → adicione o lembrete desejado. Isso é aplicado
+        # no contexto do usuário real e o app dispara a push normalmente.
         "reminders": {
             "useDefault": False,
             "overrides": [

@@ -217,7 +217,27 @@ Instale a extensão **Azure Functions**, clique com o botão direito na Function
 
 ---
 
-## 5. Monitoramento
+## 5. Notificações (Push)
+
+Os eventos são criados no Google Calendar por uma *Service Account, não por um usuário real. Por isso, o campo reminders definido via API fica associado à conta da Service Account — que não possui app nem dispositivo — e as notificações push **nunca são entregues* por esse mecanismo.
+
+### Solução adotada — lembrete padrão no app
+
+Configure o lembrete diretamente no Google Calendar app para o calendário compartilhado:
+
+1. Abra [calendar.google.com](https://calendar.google.com) (ou o app mobile)
+2. Localize o calendário compartilhado na lista lateral → clique nos *três pontos* → *Configurações*
+3. Em *Notificações de eventos, clique em **Adicionar notificação*
+4. Escolha *Notificação* (popup) e defina o tempo desejado (ex: "No momento do evento")
+5. Salve
+
+A partir daí, o app dispara a push para todos os eventos desse calendário, incluindo os sincronizados pelo CalendarSync.
+
+> **Por que não Domain-wide delegation?** Seria possível configurar a Service Account para agir em nome de um usuário real (o que permitiria reminders funcionando via API), mas isso exige acesso ao *Google Workspace Admin Console* e é uma configuração administrativa mais complexa. A abordagem acima resolve o problema sem nenhuma dependência adicional.
+
+---
+
+## 6. Monitoramento
 
 **Logs em tempo real (streaming):**
 ```bash
