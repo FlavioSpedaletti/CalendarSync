@@ -44,30 +44,34 @@ def calendar_sync(timer: func.TimerRequest) -> None:
         return
 
     # 4. Apply changes to Google Calendar
-    for event in diff.to_create:
-        google_id = create_event(google_credentials, google_calendar_id, event)
-        state[event.uid] = {
-            "google_id": google_id,
-            "sequence": event.sequence,
-            "dtstart": event.dtstart.isoformat(),
-            "dtend": event.dtend.isoformat(),
-            "summary": event.summary,
-            "rrule": event.rrule,
-        }
+    try:
+        for event in diff.to_create:
+            google_id = create_event(google_credentials, google_calendar_id, event)
+            state[event.uid] = {
+                "google_id": google_id,
+                "sequence": event.sequence,
+                "dtstart": event.dtstart.isoformat(),
+                "dtend": event.dtend.isoformat(),
+                "summary": event.summary,
+                "rrule": event.rrule,
+            }
 
-    for event, google_id in diff.to_update:
-        update_event(google_credentials, google_calendar_id, google_id, event)
-        state[event.uid] = {
-            "google_id": google_id,
-            "sequence": event.sequence,
-            "dtstart": event.dtstart.isoformat(),
-            "dtend": event.dtend.isoformat(),
-            "summary": event.summary,
-            "rrule": event.rrule,
-        }
+        for event, google_id in diff.to_update:
+            update_event(google_credentials, google_calendar_id, google_id, event)
+            state[event.uid] = {
+                "google_id": google_id,
+                "sequence": event.sequence,
+                "dtstart": event.dtstart.isoformat(),
+                "dtend": event.dtend.isoformat(),
+                "summary": event.summary,
+                "rrule": event.rrule,
+            }
 
-    for google_id, summary in diff.to_delete:
-        delete_event(google_credentials, google_calendar_id, google_id)
+        for google_id, summary in diff.to_delete:
+            delete_event(google_credentials, google_calendar_id, google_id)
+    except Exception:
+        logger.exception("Erro ao aplicar alterações no Google Calendar")
+        raise
 
     # Remove deleted UIDs from state
     deleted_google_ids = {gid for gid, _ in diff.to_delete}

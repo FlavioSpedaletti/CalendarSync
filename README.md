@@ -166,7 +166,7 @@ az functionapp create \
   --runtime python \
   --runtime-version 3.11 \
   --functions-version 4 \
-  --name CalendarSyncApp \
+  --name CalendarSyncAppFlavio \
   --os-type linux \
   --storage-account calendarsyncstore
 ```
@@ -179,7 +179,7 @@ Ao criar a Function App, o Azure já define `AzureWebJobsStorage` automaticament
 
 ```bash
 az functionapp config appsettings set \
-  --name CalendarSyncApp \
+  --name CalendarSyncAppFlavio \
   --resource-group CalendarSync-rg \
   --settings \
     "ICS_URL=<URL_DO_SEU_CALENDARIO_ICS>" \
@@ -208,7 +208,7 @@ az functionapp config appsettings set \
 **Via Azure Functions Core Tools:**
 
 ```bash
-func azure functionapp publish CalendarSyncApp
+func azure functionapp publish CalendarSyncAppFlavio
 ```
 
 **Via VS Code:**
@@ -221,7 +221,7 @@ Instale a extensão **Azure Functions**, clique com o botão direito na Function
 
 **Logs em tempo real (streaming):**
 ```bash
-func azure functionapp logstream CalendarSyncApp
+func azure functionapp logstream CalendarSyncAppFlavio
 ```
 
 **Via Portal do Azure:**

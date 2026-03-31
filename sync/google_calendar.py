@@ -37,6 +37,12 @@ def _build_event_body(event: CalendarEvent) -> dict:
         "summary": title,
         "start": start,
         "end": end,
+        "reminders": {
+            "useDefault": False,
+            "overrides": [
+                {"method": "popup", "minutes": 0},
+            ],
+        },
     }
 
     if event.rrule:
@@ -74,7 +80,6 @@ def update_event(
         calendarId=calendar_id, eventId=google_event_id, body=body
     ).execute()
     logger.info("Updated event '%s' (Google ID %s)", event.summary, google_event_id)
-
 
 def delete_event(
     credentials_json: str, calendar_id: str, google_event_id: str
