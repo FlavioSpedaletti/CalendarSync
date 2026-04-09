@@ -74,11 +74,7 @@ def fetch_and_parse(ics_url: str) -> dict[str, CalendarEvent]:
             else:
                  has_future_recurrence = True
 
-        # Skip past events (use dtend so in-progress events are kept),
-        # unless it has a recurrence targeting future dates.
-        if not _is_future_event(dtend) and not has_future_recurrence:
-            continue
-
+        # Removed the skip past events logic so history is preserved in Google Calendar.
         sequence = int(component.get("SEQUENCE", 0))
         last_modified_prop = component.get("LAST-MODIFIED")
         last_modified = (

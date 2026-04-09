@@ -82,6 +82,11 @@ def calendar_sync(timer: func.TimerRequest) -> None:
     for uid in deleted_uids:
         del state[uid]
 
+    # Remove forgotten past events from state (they stay in Google Calendar)
+    for uid in getattr(diff, "to_forget", []):
+        if uid in state:
+            del state[uid]
+
     # 5. Save updated state
     save_state(storage_connection, state)
 
