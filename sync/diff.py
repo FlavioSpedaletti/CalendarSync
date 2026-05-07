@@ -59,8 +59,20 @@ def compute_diff(
         if uid not in current_events:
             summary = state.get("summary", "(sem título)")
             dtend_iso = state.get("dtend", "")
-            # Se o evento já passou e sumiu do ICS (o Outlook parou de enviar), não apagamos do Google
-            if _is_past_event(dtend_iso):
+            rrule = state.get("rrule")
+
+            # Eventos recorrentes sem UNTIL (infinitos) nunca devem ser deletados
+            # apenas por sumirem temporariamente do feed ICS — o Outlook às vezes
+            # para de incluí-los na janela de tempo do feed sem que sejam cancelados.
+            if rrule and "UNTIL" not in rrule and "COUNT" not in rrule:
+                logger.warning(
+                    "⚠️  Evento recorrente '%s' sumiu do ICS mas tem RRULE sem fim — "
+                    "ignorando deleção para preservar no Google Calendar.",
+                    summary,
+                )
+                to_forget.append(uid)
+            # Se o evento já passou e sumiu do ICS, não apagamos do Google
+            elif _is_past_event(dtend_iso):
                 to_forget.append(uid)
             else:
                 to_delete.append((state["google_id"], summary))

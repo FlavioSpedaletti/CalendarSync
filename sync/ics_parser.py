@@ -50,6 +50,11 @@ def fetch_and_parse(ics_url: str) -> dict[str, CalendarEvent]:
         if not uid:
             continue
 
+        # Skip recurrence exceptions (RECURRENCE-ID).
+        # We want the master event with the RRULE, not individual occurrences.
+        if component.get("RECURRENCE-ID"):
+            continue
+
         summary = str(component.get("SUMMARY", "(Sem título)"))
         dtstart_prop = component.get("DTSTART")
         dtend_prop = component.get("DTEND")
@@ -80,6 +85,11 @@ def fetch_and_parse(ics_url: str) -> dict[str, CalendarEvent]:
         last_modified = (
             last_modified_prop.dt.isoformat() if last_modified_prop else ""
         )
+
+        # Se o UID já existe, só substituímos se o novo componente tiver RRULE 
+        # (o que indica que é o "Mestre") e o anterior não tinha.
+        if uid in events and not rrule_str:
+            continue
 
         events[uid] = CalendarEvent(
             uid=uid,
